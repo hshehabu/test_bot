@@ -1,0 +1,23 @@
+{
+  "name": "mailgram",
+  "version": "1.0.0",
+  "description": "this is a telegram bot made with node js to send emails from telegram to gmail instants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshehabu/mailgram.git"
+  },
+  "author": "ibnu shihab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hshehabu/mailgram/issues"
+  },
+  "homepage": "https://github.com/hshehabu/mailgram#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^3.0.1"
+  }
+}
